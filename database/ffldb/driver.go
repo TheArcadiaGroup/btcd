@@ -7,8 +7,8 @@ package ffldb
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/TheArcadiaGroup/firod/database"
+	"github.com/TheArcadiaGroup/firod/wire"
 	"github.com/btcsuite/btclog"
 )
 

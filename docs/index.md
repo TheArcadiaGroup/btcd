@@ -1,8 +1,8 @@
 # btcd
 
-[![Build Status](https://github.com/btcsuite/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/btcsuite/btcd/actions)
+[![Build Status](https://github.com/TheArcadiaGroup/firod/workflows/Build%20and%20Test/badge.svg)](https://github.com/TheArcadiaGroup/firod/actions)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/btcsuite/btcd)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/TheArcadiaGroup/firod)
 
 btcd is an alternative full node bitcoin implementation written in Go (golang).
 

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 )
 
 // defaultTransactionAlloc is the default size used for the backing array

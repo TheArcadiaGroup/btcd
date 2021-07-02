@@ -15,9 +15,9 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/btcsuite/btcd/blockchain/indexers"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/limits"
+	"github.com/TheArcadiaGroup/firod/blockchain/indexers"
+	"github.com/TheArcadiaGroup/firod/database"
+	"github.com/TheArcadiaGroup/firod/limits"
 )
 
 const (

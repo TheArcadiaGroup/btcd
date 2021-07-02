@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 )
 
 // RejectCode represents a numeric value by which a remote peer indicates

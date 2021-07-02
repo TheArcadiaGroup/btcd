@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/TheArcadiaGroup/firod/wire"
 )
 
 // testNoncePrng provides a deterministic prng for the nonce in generated fake
