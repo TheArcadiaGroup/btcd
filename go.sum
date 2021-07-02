@@ -1,8 +1,10 @@
 github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702094717-0fc61c29a141/go.mod h1:teWJhiUhmoR05xwFobdTqj3LcY168m0uFxFUmmuK7Ns=
 github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702100159-320e004d33db/go.mod h1:6NLGUfJJgWhQuwIyOhoE5O+KZ60RddplJ6z5X5HwEcs=
+github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702104942-50834b9555de/go.mod h1:0g7VVDXtEDUZ9heVLsEQ3637M5eX488UiHQLU6AOHHo=
 github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702095605-a0d7cd6d467d/go.mod h1:onyUUPeRVZYIUrBQWowrYMfZ1FJahm8BL1SoBMJUKmU=
-github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702100639-9a4ce93bc530 h1:Tcy+GIV0MzcKft7DSApJKCUvQwnWif+gmm8AQX5g+70=
 github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702100639-9a4ce93bc530/go.mod h1:2UnpqqQeSkcrhORV3NmVMN9bRbJPxclVoM+8LN2BQQ8=
+github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702105910-69b409908efe h1:ql61aGcxd86SCq0d+jjkaZy0lt5TvmaCAHCefOA4hag=
+github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702105910-69b409908efe/go.mod h1:O6x2qmYfYMQZ4nRmEQ2yZWgkZU4OCIhDK1v14YhTMeA=
 github.com/aead/siphash v1.0.1 h1:FwHfE/T45KPKYuuSAKyyvE+oPWcaQ+CUmFW0bPlM+kg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btcd v0.20.1-beta/go.mod h1:wVuoA8VJLEcwgqHBwHmzLRazpKxTv13Px/pDuV7OomQ=

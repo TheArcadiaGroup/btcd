@@ -1,7 +1,7 @@
 module github.com/TheArcadiaGroup/firod
 
 require (
-	github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702100639-9a4ce93bc530
+	github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702105910-69b409908efe
 	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
 	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd
 	github.com/btcsuite/goleveldb v1.0.0
