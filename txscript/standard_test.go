@@ -13,7 +13,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // mustParseShortForm parses the passed short form script and returns the

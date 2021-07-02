@@ -11,7 +11,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/txscript"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

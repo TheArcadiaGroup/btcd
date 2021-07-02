@@ -13,7 +13,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/netsync"
 	"github.com/TheArcadiaGroup/firod/peer"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

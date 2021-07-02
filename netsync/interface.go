@@ -11,7 +11,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/mempool"
 	"github.com/TheArcadiaGroup/firod/peer"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // PeerNotifier exposes methods to notify peers of status changes to

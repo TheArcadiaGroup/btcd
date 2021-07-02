@@ -12,9 +12,9 @@ import (
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/database"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/gcs"
-	"github.com/btcsuite/btcutil/gcs/builder"
+	"github.com/TheArcadiaGroup/firoutil"
+	"github.com/TheArcadiaGroup/firoutil/gcs"
+	"github.com/TheArcadiaGroup/firoutil/gcs/builder"
 )
 
 const (

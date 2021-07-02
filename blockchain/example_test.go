@@ -14,7 +14,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/database"
 	_ "github.com/TheArcadiaGroup/firod/database/ffldb"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

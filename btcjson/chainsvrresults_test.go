@@ -11,7 +11,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/btcjson"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

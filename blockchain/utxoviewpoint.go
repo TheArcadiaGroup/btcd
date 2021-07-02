@@ -11,7 +11,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/database"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // txoFlags is a bitmask defining additional information and state for a

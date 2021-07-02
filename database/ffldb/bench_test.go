@@ -11,7 +11,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

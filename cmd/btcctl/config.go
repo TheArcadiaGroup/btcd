@@ -15,7 +15,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/btcjson"
 	"github.com/TheArcadiaGroup/firod/chaincfg"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 	flags "github.com/jessevdk/go-flags"
 )
 

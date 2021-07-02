@@ -1100,7 +1100,7 @@ import (
 	"path/filepath"
 
 	"github.com/TheArcadiaGroup/firod/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 func main() {
@@ -1164,7 +1164,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 func main() {
@@ -1256,7 +1256,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 func main() {

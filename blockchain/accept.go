@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/TheArcadiaGroup/firod/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // maybeAcceptBlock potentially accepts a block into the block chain and, if

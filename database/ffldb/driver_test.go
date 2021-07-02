@@ -14,7 +14,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/database"
 	"github.com/TheArcadiaGroup/firod/database/ffldb"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // dbType is the database type name for this driver.

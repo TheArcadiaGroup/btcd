@@ -12,7 +12,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/btcjson"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 const (

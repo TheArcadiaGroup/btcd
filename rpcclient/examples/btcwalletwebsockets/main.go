@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/TheArcadiaGroup/firod/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

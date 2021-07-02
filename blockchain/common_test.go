@@ -20,7 +20,7 @@ import (
 	_ "github.com/TheArcadiaGroup/firod/database/ffldb"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 const (

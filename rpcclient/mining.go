@@ -11,7 +11,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/btcjson"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // FutureGenerateResult is a future promise to deliver the result of a

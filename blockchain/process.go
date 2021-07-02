@@ -10,7 +10,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

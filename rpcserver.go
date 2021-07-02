@@ -40,7 +40,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/peer"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 	"github.com/btcsuite/websocket"
 )
 

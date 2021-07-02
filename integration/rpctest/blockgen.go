@@ -17,7 +17,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/mining"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // solveBlock attempts to find a nonce which makes the passed block header hash

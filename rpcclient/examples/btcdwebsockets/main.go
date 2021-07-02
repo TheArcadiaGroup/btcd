@@ -12,7 +12,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/rpcclient"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 func main() {

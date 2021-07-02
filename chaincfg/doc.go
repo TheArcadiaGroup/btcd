@@ -25,7 +25,7 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/btcsuite/btcutil"
+//          "github.com/TheArcadiaGroup/firoutil"
 //          "github.com/TheArcadiaGroup/firod/chaincfg"
 //  )
 //

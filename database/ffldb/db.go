@@ -18,7 +18,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/database"
 	"github.com/TheArcadiaGroup/firod/database/internal/treap"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 	"github.com/btcsuite/goleveldb/leveldb"
 	"github.com/btcsuite/goleveldb/leveldb/comparer"
 	ldberrors "github.com/btcsuite/goleveldb/leveldb/errors"

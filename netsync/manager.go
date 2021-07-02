@@ -19,7 +19,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/mempool"
 	peerpkg "github.com/TheArcadiaGroup/firod/peer"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 const (

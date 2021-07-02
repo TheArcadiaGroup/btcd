@@ -18,7 +18,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/mining"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // TODO incorporate Alex Morcos' modifications to Gavin's initial model

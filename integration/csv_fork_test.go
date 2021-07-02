@@ -21,7 +21,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/integration/rpctest"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 const (

@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	"github.com/TheArcadiaGroup/firod/btcjson"
-	"github.com/btcsuite/btcutil"
+	"github.com/TheArcadiaGroup/firoutil"
 )
 
 // TestWalletSvrCmds tests all of the wallet server commands marshal and
