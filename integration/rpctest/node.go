@@ -15,7 +15,7 @@ import (
 	"time"
 
 	rpc "github.com/TheArcadiaGroup/firod/rpcclient"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // nodeConfig contains all the args, and data required to launch a btcd process

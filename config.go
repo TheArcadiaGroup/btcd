@@ -29,7 +29,7 @@ import (
 	_ "github.com/TheArcadiaGroup/firod/database/ffldb"
 	"github.com/TheArcadiaGroup/firod/mempool"
 	"github.com/TheArcadiaGroup/firod/peer"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	"github.com/btcsuite/go-socks/socks"
 	flags "github.com/jessevdk/go-flags"
 )

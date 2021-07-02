@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // TestMerkle tests the BuildMerkleTreeStore API.

@@ -11,7 +11,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/blockchain"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 const (

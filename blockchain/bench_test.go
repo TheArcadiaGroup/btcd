@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // BenchmarkIsCoinBase performs a simple benchmark against the IsCoinBase

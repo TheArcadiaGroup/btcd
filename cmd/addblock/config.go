@@ -13,7 +13,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/database"
 	_ "github.com/TheArcadiaGroup/firod/database/ffldb"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	flags "github.com/jessevdk/go-flags"
 )
 

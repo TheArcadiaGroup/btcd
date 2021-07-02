@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	"github.com/btcsuite/btclog"
 )
 

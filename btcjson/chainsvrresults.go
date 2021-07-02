@@ -12,7 +12,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // GetBlockHeaderVerboseResult models the data from the getblockheader command when

@@ -11,7 +11,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/blockchain"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // newHashFromStr converts the passed big-endian hex string into a

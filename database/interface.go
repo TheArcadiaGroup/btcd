@@ -9,7 +9,7 @@ package database
 
 import (
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a
