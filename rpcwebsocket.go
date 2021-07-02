@@ -2347,7 +2347,7 @@ func rescanBlock(wsc *wsClient, lookups *rescanKeys, blk *btcutil.Block) {
 			// attempting to spend to determine whether it is
 			// relevant to us.
 			pkScript, err := txscript.ComputePkScript(
-				txin.SignatureScript, txin.Witness,
+				txin.SignatureScript,
 			)
 			if err != nil {
 				continue

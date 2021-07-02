@@ -14,7 +14,6 @@ import (
 	"github.com/TheArcadiaGroup/firod/blockchain"
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
-	"github.com/TheArcadiaGroup/firod/mining"
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
 	"github.com/TheArcadiaGroup/firoutil"
@@ -183,19 +182,19 @@ func CreateBlock(prevBlock *btcutil.Block, inclusionTxs []*btcutil.Tx,
 		blockTxns = append(blockTxns, inclusionTxs...)
 	}
 
-	// We must add the witness commitment to the coinbase if any
-	// transactions are segwit.
-	witnessIncluded := false
-	for i := 1; i < len(blockTxns); i++ {
-		if blockTxns[i].MsgTx().HasWitness() {
-			witnessIncluded = true
-			break
-		}
-	}
+	// // We must add the witness commitment to the coinbase if any
+	// // transactions are segwit.
+	// witnessIncluded := false
+	// for i := 1; i < len(blockTxns); i++ {
+	// 	if blockTxns[i].MsgTx().HasWitness() {
+	// 		witnessIncluded = true
+	// 		break
+	// 	}
+	// }
 
-	if witnessIncluded {
-		_ = mining.AddWitnessCommitment(coinbaseTx, blockTxns)
-	}
+	// if witnessIncluded {
+	// 	_ = mining.AddWitnessCommitment(coinbaseTx, blockTxns)
+	// }
 
 	merkles := blockchain.BuildMerkleTreeStore(blockTxns, false)
 	var block wire.MsgBlock
